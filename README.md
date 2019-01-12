@@ -1,3 +1,3 @@
 Test for gitbook.
 
-{% includeCsv src="account.csv" %}{% endincludeCsv %}
+{% includeCsv src="./account.csv" %}{% endincludeCsv %}
