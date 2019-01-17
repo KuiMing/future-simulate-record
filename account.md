@@ -14,3 +14,5 @@ datetime             |  operation  |  point  |  profit  |  status
 2019/01/16 12:51:20  |  cover      |  9785   |  1       |  deal
 2019/01/16 20:33:26  |  sell       |  9764   |  -       |  order
 2019/01/16 20:33:26  |  sell       |  9764   |  -       |  deal
+2019/01/17 09:04:19  |  cover      |  9813   |  -       |  order
+2019/01/17 09:04:19  |  cover      |  9813   |  -49     |  deal
