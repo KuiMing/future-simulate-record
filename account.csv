@@ -29,3 +29,5 @@ datetime,operation,point,profit,status2019/01/09 09:18:00,buy,9644,-,order2019
 2019/01/25 08:50:25,buy,9932,-,deal
 2019/01/25 09:14:40,cover,9915,-,order
 2019/01/25 09:14:40,cover,9915,-17,deal
+2019/01/25 09:15:21,sell,9917,-,order
+2019/01/25 09:15:21,sell,9917,-,deal
