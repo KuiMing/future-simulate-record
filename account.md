@@ -44,3 +44,4 @@ datetime             |  operation  |  point  |  profit  |  status
 2019/01/28 09:41:40  |  cover      |  9990   |  -       |  order
 2019/01/28 09:44:07  |  cover      |  9990   |  -       |  order
 2019/01/28 09:48:36  |  cover      |  9990   |  -       |  order
+2019/01/28 10:17:12  |  cover      |  9990   |  -       |  order
