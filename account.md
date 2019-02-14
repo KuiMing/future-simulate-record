@@ -69,3 +69,4 @@ datetime             |  operation  |  point  |  profit  |  status
 2019/02/11 17:24:28  |  buy        |  10032  |  -       |  deal
 2019/02/13 09:34:52  |  cover      |  10074  |  -       |  order
 2019/02/13 09:35:10  |  cover      |  10074  |  42      |  deal
+2019/02/14 08:59:57  |  sell       |  10055  |  -       |  order
