@@ -123,3 +123,4 @@ datetime             |  operation  |  point  |  profit  |  status
                      |             |         |          |
 2019/03/26 10:34:49  |  cover      |  10525  |  -       |  order
 2019/03/26 10:45:21  |  cover      |  10524  |  -       |  order
+2019/03/26 10:49:32  |  cover      |  10522  |  -       |  order
