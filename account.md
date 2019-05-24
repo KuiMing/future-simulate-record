@@ -161,3 +161,4 @@ datetime             |  operation  |  point  |  profit  |  status
 2019/05/21 09:33:13  |  cover      |  10400  |  55      |  deal
 2019/05/23 17:34:23  |  buy        |  10267  |  -       |  order
 2019/05/23 17:34:51  |  buy        |  10267  |  -       |  deal
+2019/05/24 09:20:50  |  cover      |  10355  |  -       |  order
